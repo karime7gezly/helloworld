@@ -1,0 +1,12 @@
+{
+    "name": "karim/e7gezly",
+    "description": "my first composer",
+    "authors": [
+        {
+            "name": "karime7gezly",
+            "email": "karim.mostafa@e7gezly.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
